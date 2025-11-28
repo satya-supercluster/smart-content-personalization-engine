@@ -1,5 +1,5 @@
 {
-  "name": "content-personalization-engine",
+  "name": "smart-content-personalization-engine",
   "version": "1.0.0",
   "description": "AI-powered content personalization microservice",
   "main": "dist/index.js",
