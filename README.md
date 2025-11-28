@@ -746,23 +746,9 @@ Note: GPT-4 is slower (2-3s vs 800ms) and more expensive (~10x cost). Consider t
 
 ## Support & Contact
 
-**Developer:** [Your Name]  
-**Email:** [your-email]  
-**Slack:** @your-handle  
-**Documentation:** [Internal Wiki Link]  
-**Repository:** [GitHub Link]
-
-**On-Call Rotation:**
-
-- Week 1: [Name]
-- Week 2: [Name]
-- Week 3: [Name]
-
-**Emergency Contacts:**
-
-- System Down: Call [Phone]
-- Data Issues: Email [Email]
-- Cost Concerns: Slack #engineering-ops
+**Developer:** Satyam Gupta  
+**Email:** [satya.container@gmail.com]  
+**Repository:** https://github.com/satya-supercluster/smart-content-personalization-engine.git  
 
 ---
 
