@@ -1,7 +1,7 @@
 # Smart Content Personalization Engine Microservice
 
 **Project:** Content Personalization Engine  
-**Developer:** Satyam Gupta
+**Developer:** Satyam Gupta  
 **Date:** November 28, 2025  
 **Version:** 1.0
 
